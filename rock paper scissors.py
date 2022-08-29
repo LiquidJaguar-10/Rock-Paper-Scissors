@@ -44,12 +44,3 @@ elif player == 'scissors':
         print('Player\'s choice:',player)
         print('Bot\'s choice:', bot)
         print('You Won the game!!! Now say SIUUUU')
-
-    play_again = input('Do you fancy playing another game? (y/n)')
-    if play_again == 'y':
-        break
-
-print('Bye')
-
-
- 
