@@ -1,5 +1,4 @@
 import random
-play_again = 'y'
 
 a = input('Enter your name whoever you are:')
 print('Welcome to my arena:', a)
